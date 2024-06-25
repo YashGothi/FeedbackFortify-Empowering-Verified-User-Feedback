@@ -9,7 +9,7 @@ The FeedbackFortify project is a web application designed to handle user inquiri
 User Inquiry Submission: Users can submit their name, query, and phone number through a form.
 OTP Verification: The application sends an OTP to the user's phone number to verify their identity.
 Firebase Realtime Database: Verified inquiries are saved to the Firebase Realtime Database.
-User Notification: Users are alerted with the status of their inquiry submission and OTP verification.
+User Notification: Users are alerted to the status of their inquiry submission and OTP verification.
 
 ## EnApp.js
 
@@ -54,4 +54,4 @@ Project Deployment Link: https://enapp16feb24.web.app/
 Project Link: https://github.com/YashGothi/FeedbackFortify-Empowering-Verified-User-Feedback
 ## Conclusion
 
-The Enquiry via OTP project showcases a practical implementation of user verification using OTPs and Firebase's robust backend services. It provides a secure and efficient way for users to submit inquiries and for administrators to collect and manage these submissions.
+The FeedbackFortify-Empowering-Verified-User-Feedback project showcases a practical implementation of user verification using OTPs and Firebase's robust backend services. It provides a secure and efficient way for users to submit inquiries and for administrators to collect and manage these submissions.
