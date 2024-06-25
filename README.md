@@ -21,7 +21,7 @@ The EnApp.js file is the main component of the application. It includes form inp
 
 To clone the repository and install dependencies for this project, follow these steps:
 Clone the repository:
-git clone <https://github.com/YashGothi/Enquiry_via_OTP>
+git clone <https://github.com/YashGothi/FeedbackFortify-Empowering-Verified-User-Feedback.git>
 
 Navigate to the project directory:
 cd <enapp>
@@ -45,7 +45,7 @@ React: A JavaScript library for building user interfaces.
 
 ## Usage
 
-Upon loading the application, users are presented with a form to fill out their inquiry details. After submitting their phone number, they receive an OTP and must enter it to verify their identity. Once verified, their inquiry is saved, and they receive a notification.
+Upon loading the application, users are given a form to fill out their inquiry details. After submitting their phone number, they receive an OTP and must enter it to verify their identity. Once verified, their inquiry is saved, and they receive a notification.
 
 
 Contact 
@@ -53,7 +53,7 @@ Your Name - yashgothi14@gmail.com
 
 Project Deployment Link: https://enapp16feb24.web.app/
 
-Project Link: https://github.com/YashGothi/FeedbackFortify
+Project Link: https://github.com/YashGothi/FeedbackFortify-Empowering-Verified-User-Feedback
 ## Conclusion
 
 The Enquiry via OTP project showcases a practical implementation of user verification using OTPs and Firebase's robust backend services. It provides a secure and efficient way for users to submit inquiries and for administrators to collect and manage these submissions.
