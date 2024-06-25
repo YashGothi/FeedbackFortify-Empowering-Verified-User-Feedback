@@ -1,7 +1,5 @@
 # FeedbackFortify-Empowering-Verified-User-Feedback
 
-## Enquiry via OTP Project
-
 ## Overview
 
 The FeedbackFortify project is a web application designed to handle user inquiries securely by verifying their phone number through an OTP (One-Time Password) system. The application uses Firebase for backend services, including authentication and database storage. Users can submit their name, query, and phone number, after which they receive an OTP to verify their identity. Once verified, their inquiry is saved to the Firebase Realtime Database, and they are notified that they will be contacted within a specified time frame.
