@@ -49,8 +49,6 @@ Upon loading the application, users are given a form to fill out their inquiry d
 Contact 
 Your Name - yashgothi14@gmail.com
 
-Project Deployment Link: https://enapp16feb24.web.app/
-
 Project Link: https://github.com/YashGothi/FeedbackFortify-Empowering-Verified-User-Feedback
 ## Conclusion
 
